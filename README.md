@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer  
 ### 🏗️ Exploring System Design & Architecture  
-### 🚀 Java  • PYHTON • AI/ML • MERN  
+### 🚀 Java  • Python • AI/ML  
 
 ---
 

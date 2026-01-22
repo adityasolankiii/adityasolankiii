@@ -21,8 +21,8 @@
 **ITechNotion Pvt. Ltd., Ahmedabad**  
 *August 2025 – Present*
 
-- Working on Jitsi Meet–based video conferencing solutions, handling deployment, configuration, and customization using Docker/Docker Compose on Linux servers.
-- Gaining hands-on experience with ReactJS and FastAPI, AWS (EC2, security groups, networking basics), and CI/CD pipelines
+- Deployed and customized Jitsi Meet–based video conferencing solutions using Docker/Docker Compose on Linux servers.
+- Developed frontend using React.js, and backend and API integrations using Node.js and FastAPI, while implementing CI/CD pipelines.
 
 ---
 
@@ -33,6 +33,10 @@
 - Gained hands-on experience in Java, Spring Boot, AI/ML, Apache Hadoop, and Apache Solr. 
 - Designed and implemented Audio/Video transcription and speaker identification solutions for an eDiscovery platform.
 - Collaborated with the Audio/Video Reduction Team to support redaction of sensitive media content.
+- Integrated Speaker Diarization and speech-to-text models to generate structured JSON metadata, enabling precise identification of speakers in multi-party audio recordings.
+- Optimized data retrieval by indexing transcriptions into Apache Solr, reducing search latency for sensitive content redaction and analysis.
+- Collaborated with the Audio/Video Reduction Team to support redaction of sensitive media content
+
 
 ---
 

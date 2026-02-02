@@ -19,7 +19,7 @@
 
 ### **Software & AI Engineer**  
 **ITechNotion Pvt. Ltd., Ahmedabad**  
-*August 2025 – Present*
+*August 2025 – Feb 2026*
 
 - Deployed and customized Jitsi Meet–based video conferencing solutions using Docker/Docker Compose on Linux servers.
 - Developed frontend using React.js, and backend and API integrations using Node.js and FastAPI, while implementing CI/CD pipelines.

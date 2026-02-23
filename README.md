@@ -8,18 +8,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 MSc IT graduate with strong fundamentals in software engineering  
-- 🔧 Software Engineer with experience in backend systems & AI-driven solutions  
-- 🧠 Currently learning **System Design, Architecture & Distributed Systems**  
-- 🤖 Interested in **Java and AI/ML applied to real-world systems**  
+- 🔧 Software Engineer with experience in backend systems & AI-driven solutions
 - 🌱 Always learning, always improving  
-
----
-
-## 📈 What I'm Focusing On
-- System Design (LLD + HLD)
-- Scalable backend architectures
-- AI + traditional software engineering
-- Writing clean, maintainable code
 
 ---
 

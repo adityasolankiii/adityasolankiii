@@ -2,7 +2,6 @@
 
 ### 💻 Software Engineer  
 ### 🏗️ Exploring System Design & Architecture  
-### 🚀 Java  • Python • AI/ML  
 
 ---
 

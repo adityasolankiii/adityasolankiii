@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Aditya Solanki
 
-### 💻 Software Engineer  
+### 💻 Software Engineer / Software Developer
 ### 🏗️ Exploring System Design & Architecture  
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 MSc IT graduate with strong fundamentals in software engineering  
+- 🎓 MSc IT graduate with strong fundamentals in software engineering
 - 🔧 Software Engineer with experience in backend systems & AI-driven solutions
 - 🌱 Always learning, always improving  
 
